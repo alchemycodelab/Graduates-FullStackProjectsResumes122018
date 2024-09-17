@@ -43,7 +43,7 @@ Mood music makes the perfect recommendation depending on your current mood! Mood
 - Github (Back End): https://github.com/Silver-Surfers/Mood-Music-be
 - [Video Presentation](Coming Soon!)
 
-## Canary :: [Thomas Stussi](www.linkedin.com/in/thomas-stussi/), [Katie Perry](https://www.linkedin.com/in/katiepdx/), [Ben Waples](https://benwaples.dev/) & [Greg Mall](https://www.linkedin.com/in/greg-mall-3032771b1/)
+## Canary :: [Thomas Stussi](https://www.linkedin.com/in/thomas-stussi/), [Katie Perry](https://www.linkedin.com/in/katiepdx/), [Ben Waples](https://benwaples.dev/) & [Greg Mall](https://www.linkedin.com/in/greg-mall-3032771b1/)
 
 Canary is a learning platform that engages students in the learning process through movement. Teachers on the platform can pose questions to the classroom and students can select their answers simply through their gestures, which are trained through a machine learning package called TensorFlow. We use Socket.io to transmit questions, answers, and chat messages between clients to enhance the classroom environment. The site is rendered with React and complex state management is handled with Redux.
 
